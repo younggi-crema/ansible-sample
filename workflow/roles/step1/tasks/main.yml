@@ -1,0 +1,5 @@
+---
+# tasks file for step1
+- name: step 1 task
+  debug: var=server_targets
+  delegate_to: 127.0.0.1

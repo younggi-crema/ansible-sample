@@ -1,0 +1,5 @@
+---
+- name: step 1 playbook
+  hosts: webservers
+  roles:
+    - step1

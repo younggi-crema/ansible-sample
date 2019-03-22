@@ -1,0 +1,4 @@
+server_targets:
+  6:
+    - 'server1'
+    - 'server2'
